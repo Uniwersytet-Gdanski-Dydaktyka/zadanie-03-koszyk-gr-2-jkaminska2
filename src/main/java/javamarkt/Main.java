@@ -35,3 +35,16 @@ public class Main {
         System.out.println("\nSuma po promocjach: " + sum);
     }
 }
+
+//Posortowane produkty:
+//Monitor - 600.0
+//Klawiatura - 150.0
+//Myszka - 100.0
+
+//Po promocjach:
+//P1 - Myszka | price=100.0 | discountPrice=0.0
+//P2 - Klawiatura | price=150.0 | discountPrice=99.75
+//P3 - Monitor | price=600.0 | discountPrice=570.0
+//MUG - Kubek | price=0.0 | discountPrice=0.0
+
+//Suma po promocjach: 669.75
